@@ -1,6 +1,6 @@
 ### Hi, my name is Luan Santos. 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luansantosdevpy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luansantospravaler&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
 # This is my stacks
 
