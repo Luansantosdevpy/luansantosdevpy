@@ -1,6 +1,5 @@
 ## Luan Santos - Software engineer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luansantosdevpy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
 <h2>Some of my skills:</h2>
 
@@ -63,7 +62,8 @@
   <a href="https://www.linkedin.com/in/luan-santos-ba78ba260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<h2>My stats</h2>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luansantosdevpy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luansantosdevpy&hide_progress=true)
 
